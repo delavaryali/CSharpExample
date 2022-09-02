@@ -55,6 +55,8 @@ Console.WriteLine(MD + 10);
 DelegateClass del = new DelegateClass();
 del.DelegateInvok();
 
+//*******************Enumeration*****************
+public enum Days { Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday }
 
 
 //******************Event********************
