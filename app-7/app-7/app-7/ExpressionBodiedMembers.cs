@@ -12,6 +12,14 @@ namespace app_7
 
     }
 
+    public class Person4
+    {
+        public string Name { get; }
+        public int Age { get; }
+
+        public Person4(string name, int age) => (Name, Age) = (name, age);
+    }
+
     public class Person2
     {
         public string FirstName { get; set; }

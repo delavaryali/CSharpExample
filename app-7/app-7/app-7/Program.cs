@@ -2,8 +2,8 @@
 using app_7;
 
 
-//StringInterpolation.Run();
+StringInterpolation.Run();
 
 //NullConditionalOperators.Run();
 
-TupleReturnTypesAndDeconstruction.Run();
+//TupleReturnTypesAndDeconstruction.Run();

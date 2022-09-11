@@ -61,6 +61,18 @@ namespace app_7
             var r1 = new Rectangle(100, 200);
             (int height, int width) = r1;
             Console.WriteLine($"height: {height}, width: {width}");
+
+
+
+
+
+
+
+            string name = "User 1";
+            int age = 20;
+            var personTuple = (name, age);
+            Console.WriteLine(personTuple.name); // User 1
+            Console.WriteLine(personTuple.age); // 20
         }
 
         static Tuple<int, string, string> GetHumanData()
