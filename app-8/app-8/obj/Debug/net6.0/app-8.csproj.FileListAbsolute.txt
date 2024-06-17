@@ -1,0 +1,16 @@
+E:\vs\CSharpExample\app-8\app-8\bin\Debug\net6.0\app-8.exe
+E:\vs\CSharpExample\app-8\app-8\bin\Debug\net6.0\app-8.deps.json
+E:\vs\CSharpExample\app-8\app-8\bin\Debug\net6.0\app-8.runtimeconfig.json
+E:\vs\CSharpExample\app-8\app-8\bin\Debug\net6.0\app-8.dll
+E:\vs\CSharpExample\app-8\app-8\bin\Debug\net6.0\app-8.pdb
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.csproj.AssemblyReference.cache
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.AssemblyInfoInputs.cache
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.AssemblyInfo.cs
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.csproj.CoreCompileInputs.cache
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.dll
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\refint\app-8.dll
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.pdb
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.genruntimeconfig.cache
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\ref\app-8.dll
+E:\vs\CSharpExample\app-8\app-8\obj\Debug\net6.0\app-8.sourcelink.json
