@@ -1,15 +1,29 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+using app_8;
 
 //Ref Returns and Ref Locals
 //Generalized Async Return Types
 //Binary literals and digit separators
+//Span 
+//Value Types + in
+//Async Streams
+//Immutable Record
+//Covariant 
+
+
+
 
 
 //***********out****************
 //نیازی به مقدار دهی اولیه ندارد
 //با استفاده از واژه‌ي کليدي ref، مي‌توان يک مقدار را هم به تابع ارسال کرد و هم از آن دريافت نمود.
 //اما اگر تنها قرار است مقداري از تابع بازگشت داده شود، مي‌توان از متغيرهاي out استفاده کرد
+using System.Runtime.CompilerServices;
+
+Linq linq = new();
+linq.run();
+
+
 int initializeInMethod;
 OutArgExample(out initializeInMethod);
 Console.WriteLine(initializeInMethod);     // value is now 44
@@ -101,6 +115,7 @@ void InArgExample(in int number)
 // protected internal: Access is limited to the current assembly or types derived from the containing class.
 // private: Access is limited to the containing type.
 // private protected: Access is limited to the containing class or types derived from the containing class within the current assembly.
+
 
 
 

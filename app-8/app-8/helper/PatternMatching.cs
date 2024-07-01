@@ -73,8 +73,19 @@ namespace app_8
 
         public static void Run()
         {
+            var operation = "+";
+            int a = 1, b = 2;
+            var result = operation switch
+            {
+                "+" => a + b,
+                "-" => a - b,
+                "/" => a / b,
+                _ => throw new NotSupportedException()
+            };
 
         }
+
+
 
         //***********************************************
 
